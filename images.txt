@@ -1,3 +1,4 @@
 nacos/nacos-server:v2.5.2
 minio/minio:latest
 apache/seata-server:2.6.0
+redis:7.2.6
